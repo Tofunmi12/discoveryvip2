@@ -1,2 +1,2 @@
-# discoveryvip2
+# my programming lesson
 web programming training
